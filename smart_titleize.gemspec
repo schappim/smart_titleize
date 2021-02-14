@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   if spec.respond_to?(:metadata)
     spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
-    spec.metadata["homepage_uri"] = spec.homepage
+    spec.metadata["homepage_uri"] = "https://github.com/schappim/smart_titleize"
     spec.metadata["source_code_uri"] = "https://github.com/HowardSnowden/smart_titleize"
     spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
   else
