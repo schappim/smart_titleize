@@ -20,7 +20,6 @@ Gem::Specification.new do |spec|
 
     spec.metadata["homepage_uri"] = "https://github.com/schappim/smart_titleize"
     spec.metadata["source_code_uri"] = "https://github.com/HowardSnowden/smart_titleize"
-    spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
   else
     raise "RubyGems 2.0 or newer is required to protect against " \
       "public gem pushes."
