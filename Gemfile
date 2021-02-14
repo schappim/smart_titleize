@@ -6,9 +6,5 @@ Gem::Specification.new do |s|
   s.authors  = [ "Howard Snowden", "Marcus Schappi" ]
   s.summary  = "Modification of Howard Snowden's Smart Titleize Gem"
   s.homepage = "https://github.com/schappim/smart_titleize"
-
-
   s.required_ruby_version = ">= 2.4.0"
-
-
 end
