@@ -1,7 +1,7 @@
 class String
   def smart_titleize
     new_str = []
-    exclusions = %w{with to or and for but nor}
+    exclusions = %w{with to or and for but nor EagLED}
     self.split(' ').each.with_index do |word, i|
       new_word = word
       unless word.scan(/[A-Z]/).size > 1 
